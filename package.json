@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is namste reat by chandan",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revurichandankumar/Learningrepo.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "chandan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revurichandankumar/Learningrepo/issues"
+  },
+  "homepage": "https://github.com/revurichandankumar/Learningrepo#readme"
+}
